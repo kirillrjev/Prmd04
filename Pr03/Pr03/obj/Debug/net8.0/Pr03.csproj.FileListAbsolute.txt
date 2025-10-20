@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr03\Pr03\bin\Debug\net8.0\Pr03.exe
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr03\Pr03\bin\Debug\net8.0\Pr03.deps.json
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr03\Pr03\bin\Debug\net8.0\Pr03.runtimeconfig.json
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr03\Pr03\bin\Debug\net8.0\Pr03.dll
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr03\Pr03\bin\Debug\net8.0\Pr03.pdb
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr03\Pr03\obj\Debug\net8.0\Pr03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr03\Pr03\obj\Debug\net8.0\Pr03.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr03\Pr03\obj\Debug\net8.0\Pr03.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr03\Pr03\obj\Debug\net8.0\Pr03.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr03\Pr03\obj\Debug\net8.0\Pr03.dll
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr03\Pr03\obj\Debug\net8.0\refint\Pr03.dll
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr03\Pr03\obj\Debug\net8.0\Pr03.pdb
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr03\Pr03\obj\Debug\net8.0\Pr03.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr03\Pr03\obj\Debug\net8.0\ref\Pr03.dll

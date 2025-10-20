@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr04\Pr04\bin\Debug\net8.0\Pr04.exe
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr04\Pr04\bin\Debug\net8.0\Pr04.deps.json
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr04\Pr04\bin\Debug\net8.0\Pr04.runtimeconfig.json
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr04\Pr04\bin\Debug\net8.0\Pr04.dll
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr04\Pr04\bin\Debug\net8.0\Pr04.pdb
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr04\Pr04\obj\Debug\net8.0\Pr04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr04\Pr04\obj\Debug\net8.0\Pr04.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr04\Pr04\obj\Debug\net8.0\Pr04.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr04\Pr04\obj\Debug\net8.0\Pr04.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr04\Pr04\obj\Debug\net8.0\Pr04.dll
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr04\Pr04\obj\Debug\net8.0\refint\Pr04.dll
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr04\Pr04\obj\Debug\net8.0\Pr04.pdb
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr04\Pr04\obj\Debug\net8.0\Pr04.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.04\Pr04\Pr04\obj\Debug\net8.0\ref\Pr04.dll
